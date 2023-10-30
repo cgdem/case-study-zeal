@@ -7,7 +7,7 @@ Within this repository, you'll find a comprehensive set of end-to-end test cases
 
 ## Prerequisites
 
-Before running the test suitew, make sure you have the following prerequisites installed"
+Before running the test suite, make sure you have the following prerequisites installed
 
 - Node.js (with npm)
 
